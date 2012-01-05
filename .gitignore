@@ -1,0 +1,8 @@
+
+*.suo
+*.opensdf
+*.sdf
+/ipch
+/Debug
+/MsvcrtToMsvcr100/Debug
+/MsvcrtToMsvcr100/ReadMe.txt
